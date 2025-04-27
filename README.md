@@ -1,4 +1,4 @@
-# Elm with webpack 5 and taiwindcss 4 
+# Elm with webpack 5 and taiwindcss 4 Starter Template
 
 ## This template is using:
 * webpack 5.99.7
@@ -32,6 +32,14 @@ Tree is like this
 3. Run `npm i`  to install all other dependencies
 4. `npm start` run the webpack-dev-server.
 
+## References
+### CSS - Bundler - UI 
+- [Tailwindcss 4 documentation](https://tailwindcss.com/docs/installation/using-postcss)
+- [Webpack 5 documentation](https://webpack.js.org/concepts/)
+- [Flyon documentation](https://flyonui.com/docs/getting-started/quick-start/)
 
 
-###### Copyright issue: png image from pngtree.com
+### Elm
+- [Elm guides](https://guide.elm-lang.org/)
+- [Elm packages](https://package.elm-lang.org/)
+- [Ryan Haskell's excellent "Welcome to elm" videos on youtube](https://www.youtube.com/playlist?list=PLuGpJqnV9DXq_ItwwUoJOGk_uCr72Yvzb)

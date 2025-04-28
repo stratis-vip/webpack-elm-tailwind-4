@@ -31,6 +31,7 @@ Tree is like this
 2. Run `elm reactor` to download all packages (if needed)
 3. Run `npm i`  to install all other dependencies
 4. `npm start` run the webpack-dev-server.
+5. Change the `src/images/favicon.ico` with your favicon.
 
 ## References
 ### CSS - Bundler - UI 

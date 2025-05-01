@@ -51,10 +51,7 @@ subscriptions _ =
     Sub.none
 
 
-
--- main : () Program () Model Msg
-
-
+main : Program () Model Msg
 main =
     Browser.element
         { init = init
@@ -77,7 +74,8 @@ view model =
         , div [ class "flex items-center flex-col text-lg" ]
             [ text "Also an image centered horizontally"
             , img
-                [ src "require:src/images/placeholder.png"
+                [ -- src "require:src/images/placeholder.png"
+                  src "images/placeholder.png"
                 , alt "image placehoder"
                 , style "width" "48px"
                 ]

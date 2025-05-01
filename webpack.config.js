@@ -16,7 +16,7 @@ module.exports = {
   },
   plugins: [new HtmlWebpackPlugin({
     title: 'elm with webpack'
-    , favicon: './src/images/favicon.ico'
+    , favicon: './src/favicon.ico'
   }),
   new CopyWebpackPlugin({ // Add this plugin
     patterns: [

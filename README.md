@@ -1,5 +1,8 @@
 # Elm with webpack 5 and taiwindcss 4 Starter Template
 
+I stopped using this template and i am using indeed
+[elm with vite 6 and tailwindcss 4 starter template](https://github.com/stratis-vip/elm-vite-tailwindcss)
+
 ## This template is using
 
 * webpack 5.99.7
